@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1939831694, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+  m_Name: Ship Thrusters
+  m_EditorClassIdentifier: 
+  _loop: 1
+  _priority: 128
+  _volume: 0.75
+  _maxFalloffDistance: 15
+  _doppler: 0
+  _rolloffMode: 2
+  _vacuumEffect: 1
+  _clip: {fileID: 8300000, guid: 2cf3a1b52533a614c98ff660c22778b9, type: 3}

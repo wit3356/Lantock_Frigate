@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 772c350d9d45fd6489ec05428c42742b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: lantock
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}

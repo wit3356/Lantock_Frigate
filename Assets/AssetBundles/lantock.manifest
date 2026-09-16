@@ -1,0 +1,242 @@
+ManifestFileVersion: 0
+CRC: 2702570952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5f1db8ed9cefc5ad999f6e2f18b75d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87676506a26c7e479c68c1ff5a0d9c4b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 1169962899, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 476546549, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -503169215, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -17281661, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 1834869540, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 1284957211, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1654375035, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 651954334, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1594382245, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 1317249955, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1277060334, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -581704016, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 1832581930, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 1325435507, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1419217067, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 1312143581, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -611735610, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1899270409, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1466729778, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 862674389, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -887090449, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -774402571, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -458874659, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 1939831694, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1324961888, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -768538724, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: -1008933583, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 399927140, guid: 5d9f38de053891f4c884cdae3bf07de9, type: 3}
+- Class: 114
+  Script: {fileID: -503169215, guid: 5e4a5f5a7898a11468786d7a485eaf32, type: 3}
+- Class: 114
+  Script: {fileID: 1939831694, guid: 5e4a5f5a7898a11468786d7a485eaf32, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Nebulous
+  ClassName: Ships.BaseHull/ArmorZone
+- AssemblyName: Nebulous
+  ClassName: Ships.BaseHull/Aspects
+- AssemblyName: Nebulous
+  ClassName: Ships.BaseHull/DockingClamp
+- AssemblyName: Nebulous
+  ClassName: Ships.BaseHull/DockingPoint
+- AssemblyName: Nebulous
+  ClassName: Ships.HullVolume/WeightedBounds
+- AssemblyName: Nebulous
+  ClassName: Ships.StatModifier
+- AssemblyName: Nebulous
+  ClassName: Utility.FastNameplateBaker/BakeTarget
+- AssemblyName: Nebulous
+  ClassName: Utility.TraversalLimits
+- AssemblyName: UIExtensions
+  ClassName: UnityEngine.UI.Extensions.TextPic/HrefClickEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundle/FFG_Lantock/Textures/Silhouette.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Corvette-Engine-StartBurn-2-1.ogg
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_engines_medium.ogg
+- Assets/Bundle/FFG_Lantock/Others/shaders/bare_diffuse.dds
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Ship-Engine-Burn-2-1.ogg
+- Assets/Bundle/FFG_Lantock/Others/FXs/trail_base.png
+- Assets/Bundle/FFG_Lantock/Others/Wicher10.fbx
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Ship Thrusters.asset
+- Assets/Bundle/FFG_Lantock/Textures/DC_Board_Group.png
+- Assets/Bundle/FFG_Lantock/Others/FXs/Disabled Particles.vfx
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_engines_large.ogg
+- Assets/Bundle/FFG_Lantock/FFG_Lantock_Status.prefab
+- Assets/Bundle/FFG_Lantock/Others/shaders/bare_mask.dds
+- "Assets/Bundle/FFG_Lantock/Textures/Silhouette \u2014 kopia.png"
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Ship-Engine-StartBurn-2-1.ogg
+- Assets/Bundle/FFG_Lantock/Others/FXs/Damaged Sparkles.vfx
+- Assets/Bundle/FFG_Lantock/Others/sounds/NEBULOUS_idle_start.ogg
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_boost_start.ogg
+- Assets/Bundle/FFG_Lantock/Others/FXs/Bow Engine.vfx
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Lifeboat-Launch-2-1.ogg
+- Assets/Bundle/FFG_Lantock/Others/shaders/Hull_decal Vanillia.shadergraph
+- Assets/Bundle/FFG_Lantock/Others/FXs/Damaged Smoke.vfx
+- Assets/Bundle/FFG_Lantock/Others/shaders/Material_window.mat
+- Assets/Bundle/FFG_Lantock/Others/shaders/Hull_Paint_Custom.shadersubgraph
+- Assets/Bundle/FFG_Lantock/Others/shaders/Material_engines.mat
+- Assets/Bundle/FFG_Lantock/Textures/Hull_Mat.mat
+- Assets/Bundle/FFG_Lantock/Textures/Lantock_pic.bmp
+- Assets/Bundle/FFG_Lantock/Others/FXs/Main Engine 1.vfx
+- Assets/Bundle/FFG_Lantock/Others/sounds/Thruster Bookended SFX.asset
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_burstJet_loop.ogg
+- Assets/Bundle/FFG_Lantock/Others/shaders/Hull_Paint.shadersubgraph
+- Assets/Bundle/FFG_Lantock/Others/shaders/bare_normal.dds
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Ship-Engine-EndBurn-1-1.ogg
+- Assets/Bundle/FFG_Lantock/FFG_Colider.prefab
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_burstJet_out.ogg
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Ship-Idle-PowerUp.ogg
+- Assets/Bundle/FFG_Lantock/Others/sounds/NEBULOUS_idle_loop.ogg
+- Assets/Bundle/FFG_Lantock/Others/sounds/Thrusters SFX.asset
+- Assets/Bundle/FFG_Lantock/Others/FXs/Main Engine.vfx
+- Assets/Bundle/FFG_Lantock/Others/shaders/Hull_Shader custom.shadergraph
+- Assets/Bundle/FFG_Lantock/Textures/components.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Warship-Idle-1-1.ogg
+- Assets/Bundle/FFG_Lantock/Others/shaders/Hull_decal.shadergraph
+- Assets/Bundle/FFG_Lantock/Textures/Hull_Paint_Mask_Baked.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_boost_loop.ogg
+- Assets/Bundle/FFG_Lantock/Others/Lantock.fbx
+- Assets/Bundle/FFG_Lantock/Others/shaders/Material_badgeBaking.mat
+- Assets/Bundle/FFG_Lantock/Textures/Hull_Mask_Map_Baked.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_alarm.ogg
+- "Assets/Bundle/FFG_Lantock/Textures/Hull_Paint_Mask_Baked \u2014 kopia.png"
+- Assets/Bundle/FFG_Lantock/Others/FXs/Disabled Sparks - antenna.vfx
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_burstJet_start.ogg
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Ship Idle.asset
+- Assets/Bundle/FFG_Lantock/Textures/Lantock.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Corvette-Engine-Burn-2-1.ogg
+- "Assets/Bundle/FFG_Lantock/Textures/Hull_Mask_Map_Baked \u2014 kopia.png"
+- Assets/Bundle/FFG_Lantock/Others/FXs/Thruster.vfx
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Thruster-BurnLoop-1-1.ogg
+- Assets/Bundle/FFG_Lantock/Others/shaders/Hull_Damage_Glow_Metal.shadersubgraph
+- Assets/Bundle/FFG_Lantock/Others/sounds/TinyEngine Bookended SFX.asset
+- Assets/Bundle/FFG_Lantock/Others/shaders/damage.dds
+- Assets/Bundle/FFG_Lantock/FFG_Lantock.prefab
+- "Assets/Bundle/FFG_Lantock/Textures/Hull_Base \u2014 kopia 1.png"
+- Assets/Bundle/FFG_Lantock/Textures/damage.dds
+- Assets/Bundle/FFG_Lantock/Textures/Engine_Mat.mat
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/Warship-Idle-1-1-End.ogg
+- Assets/Bundle/FFG_Lantock/FFG_Collider Sampler.prefab
+- Assets/Bundle/DC_Detail_Group_Interior.prefab
+- Assets/Bundle/FFG_Lantock/FFG_Lantock_DC_Board.prefab
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_engines_small.ogg
+- Assets/Bundle/FFG_Lantock/Others/FXs/heat_normals_A.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/Van/FFG_Main_Engine.asset
+- Assets/Bundle/FFG_Lantock/Others/shaders/ObjectSpaceTriplanarNormal.shadersubgraph
+- Assets/Bundle/FFG_Lantock/Textures/Hull_Mat Nameplate.mat
+- Assets/Bundle/FFG_Lantock/Others/sounds/ship_idle.asset
+- Assets/Bundle/Manifest.xml
+- Assets/Bundle/FFG_Lantock/Textures/Engine_Mask_Map.png
+- Assets/Bundle/FFG_Lantock/Textures/Engine_Normals.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/PRISM_boost_end.ogg
+- Assets/Bundle/FFG_Lantock/Textures/Hull_Normals.png
+- Assets/Bundle/FFG_Lantock/Others/sounds/SmallEngine Bookended SFX.asset
+- Assets/Bundle/FFG_Lantock/Others/shaders/Alignment.png
+- Assets/Bundle/FFG_Lantock/Others/shaders/Material_glow.mat
+- Assets/Bundle/FFG_Lantock/Others/sounds/NEBULOUS_idle_stop.ogg
+- Assets/Bundle/FFG_Lantock/Others/shaders/Hull_Shader vanilla.shadergraph
+- Assets/Bundle/FFG_Lantock/Others/FXs/flak_flash.png
+- Assets/Bundle/FFG_Lantock/Others/shaders/Nameplate_Decal_Stage.shadersubgraph
+- Assets/Bundle/FFG_Lantock/Textures/Engine_Base.png
+Dependencies: []

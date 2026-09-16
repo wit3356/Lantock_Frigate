@@ -9,7 +9,9 @@
 
 # Notepad++ backups #
 *.bak
-
+stock
+stock-f1
+stock-f2
 
 .utmp/
 /[Ll]ibrary/

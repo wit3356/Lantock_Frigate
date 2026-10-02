@@ -3556,7 +3556,7 @@ MonoBehaviour:
     armament. Preserved prototypes were hastily pressed into service following the
     Harper Incident.
   _flavorText: WIP
-  _pointCost: 135
+  _pointCost: 110
   _mass: 5000
   _weightClass: 1
   _tankFacing: 1
@@ -7935,7 +7935,8 @@ MonoBehaviour:
   m_Script: {fileID: -1466729778, guid: 32be4b5e5989a054e9918463a5281b02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _originalMaterials: []
+  _originalMaterials:
+  - {fileID: 2100000, guid: f94a0a863dd4be548bab8e43166f7976, type: 2}
   _applyOnAwake: 1
   _fullDepth: 0
   _createMaterialInstances: 1

@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FFG_Lantock
       objectReference: {fileID: 0}
+    - target: {fileID: 4308773830343811486, guid: 2fa48599a8db05b48894c0e961423b44, type: 3}
+      propertyPath: _pointCost
+      value: 110
+      objectReference: {fileID: 0}
     - target: {fileID: 5210581923246071119, guid: 2fa48599a8db05b48894c0e961423b44, type: 3}
       propertyPath: m_RootOrder
       value: 0
